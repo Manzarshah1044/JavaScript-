@@ -32,7 +32,7 @@ console.log(typeof var1) //object
 console.log(var1)       // undefined
 console.log(typeof var2) //undefined
 console.log(var2)      //undifined
-
+console.log("hell")
 /*
   "21" => 21  String to number (print 21)
   "23abc" =>  string to number (print Nan)
